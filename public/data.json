@@ -1,0 +1,134 @@
+[
+    {
+      "id": "1",
+      "img": "https://i.ibb.co/D7Qsg31/Health.png",
+      "title": "Clean water for children",
+      "card_bg": "#0052FF26",
+      "text_bg": "#0052FF33",
+      "category": "Health",
+      "donating": 290,
+      "text_color": "#0052FF",
+      "description": "Our cherished way of life depends on clean water: healthy ecosystems provide wildlife habitat and places to fish, paddle, surf, and swim. Our economy depends on clean water: manufacturing, farming, tourism, recreation, energy production, and other economic sectors need clean water to function and flourish."
+    },
+    {
+      "id": "2",
+      "img": "https://i.ibb.co/0M58Bw1/Education.png",
+      "title": "Good education",
+      "card_bg": "#FF444A26",
+      "text_bg": "#FF444A33",
+      "category": "Education",
+      "donating": 290,
+      "text_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
+    },
+    {
+      "id": "3",
+      "img": "https://i.ibb.co/Wg48nC1/Clothing.png",
+      "title": "Used Clothing Drive",
+      "card_bg": "#79C23F26",
+      "text_bg": "#79C63F33",
+      "category": "Clothing",
+      "donating": 290,
+      "text_color": "#79C23F",
+      "description": "A used clothing drive is philanthropic activity that requests clothing donations from community members or a network of individuals for the benefit of a non profit group or group of vulnerable people. There are many benefits to organizing a used clothing drive."
+    },
+    {
+      "id": "4",
+      "img": "https://i.ibb.co/3y1VvHg/Food.png",
+      "title": "Better Food for Everyone",
+      "card_bg": "#F8714726",
+      "text_bg": "#F8714733",
+      "category": "Food",
+      "donating": 290,
+      "text_color": "#F87147",
+      "description": "A well-balanced diet provides all of the: energy you need to keep active throughout the day. nutrients you need for growth and repair, helping you to stay strong and healthy and help to prevent diet-related illness, such as some cancers."
+    },
+    {
+      "id": "5",
+      "img": "https://i.ibb.co/3y1VvHg/Food.png",
+      "title": "Better Food for Everyone",
+      "card_bg": "#F8714726",
+      "text_bg": "#F8714733",
+      "category": "Food",
+      "donating": 290,
+      "text_color": "#F87147",
+      "description": "Being healthy should be part of your overall lifestyle. Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses. Feeling good about yourself and taking care of your health are important for your self-esteem and self-image. Maintain a healthy lifestyle by doing what is right for your body."
+    },
+    {
+      "id": "6",
+      "img": "https://i.ibb.co/Wg48nC1/Clothing.png",
+      "title": "Used Clothing Drive",
+      "card_bg": "#79C23F26",
+      "text_bg": "#79C63F33",
+      "category": "Clothing",
+      "donating": 290,
+      "text_color": "#79C23F",
+      "description": "By donating your unwanted clothes to charity, you're not only helping the environment, you're also supporting brilliant causes. In fact, donated clothing is one of the biggest sources of funds raised by charities. The best part is that you can choose which charity you want to give that coat, dress or top to."
+    },
+    {
+      "id": "7",
+      "img": "https://i.ibb.co/0M58Bw1/Education.png",
+      "title": "Good education",
+      "card_bg": "#FF444A26",
+      "text_bg": "#FF444A33",
+      "category": "Education",
+      "donating": 290,
+      "text_color": "#FF444A",
+      "description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential."
+    },
+    {
+      "id": "8",
+      "img": "https://i.ibb.co/D7Qsg31/Health.png",
+      "title": "Clean water for children",
+      "card_bg": "#0052FF26",
+      "text_bg": "#0052FF33",
+      "category": "Health",
+      "donating": 290,
+      "text_color": "#0052FF",
+      "description": "Good health is a crown on the head of a well person that only a sick person can see."
+    },
+    {
+      "id": "9",
+      "img": "https://i.ibb.co/D7Qsg31/Health.png",
+      "title": "Clean water for children",
+      "card_bg": "#0052FF26",
+      "text_bg": "#0052FF33",
+      "category": "Health",
+      "donating": 290,
+      "text_color": "#0052FF",
+      "description": "Our greatest happiness does not depend on the condition of life in which chance has placed us, but is always the result of a good conscience, good health, occupation, and freedom in all just pursuits."
+    },
+    {
+      "id": "10",
+      "img": "https://i.ibb.co/0M58Bw1/Education.png",
+      "title": "Good education",
+      "card_bg": "#FF444A26",
+      "text_bg": "#FF444A33",
+      "category": "Education",
+      "donating": 290,
+      "text_color": "#FF444A",
+      "description": "The education that prepared me was my general education classes, which I tried to avoid when I was a stupid undergraduate, but which gave me the foundation of general knowledge that makes a career as a writer possible.Everyone has the ability to build a financial ark to survive and flourish in the future. But you must invest time in your financial education to build an ark with a solid foundation."
+    },
+    {
+      "id": "11",
+      "img": "https://i.ibb.co/Wg48nC1/Clothing.png",
+      "title": "Used Clothing Drive",
+      "card_bg": "#79C23F26",
+      "text_bg": "#79C63F33",
+      "category": "Clothing",
+      "donating": 290,
+      "text_color": "#79C23F",
+      "description": "Nothing makes decluttering easier than knowing your clothes are going to a worthy cause — or at the very least, not going to the dump. Consider this: Around 11 million tons of textile waste ends up in landfills each year. And your old jeans and tees don't have a short stay there either. Depending on the material, it could take them anywhere from several weeks to several decades to break down, releasing methane, a greenhouse gas more potent than carbon dioxide, in the process. Fortunately, there are simple ways you can donate your clothes to save the planet, and at the same time, help those in need."
+    },
+    {
+      "id": "12",
+      "img": "https://i.ibb.co/3y1VvHg/Food.png",
+      "title": "Better Food for Everyone",
+      "card_bg": "#F8714726",
+      "text_bg": "#F8714733",
+      "category": "Food",
+      "donating": 290,
+      "text_color": "#F87147",
+      "description": "Food is an important part of cultural heritage and national identity. It can connect us to people and places, bringing friends and families together, and food habits, such as whether you should eat all of the food on your plate vary across the globe."
+    }
+  ]
